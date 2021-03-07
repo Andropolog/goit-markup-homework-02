@@ -1,2 +1,2 @@
-# goit-markup-hw-01
- precourse-homework-01
+# goit-markup-hw-02
+ precourse-homework-02
